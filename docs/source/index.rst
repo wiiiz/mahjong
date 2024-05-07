@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+日麻 -- 立直麻将
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
